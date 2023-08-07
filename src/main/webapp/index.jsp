@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Zielotech - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to Zielotech pune- Software Training Institute <font></h1>
 
 <a href="https://Zielotechinstitute.com/online-training-schedules">Click Here To zielotech Training Schedules</a>
   
